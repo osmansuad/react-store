@@ -1,0 +1,11 @@
+{
+    "Kyiv": [
+      { "name": "Milk Bar", "address": "vul. Khreshchatyk, 1", "phone": "044-123-4567" },
+      { "name": "Cafe 'Lvivski kruasany'", "address": "vul. Velyka Vasylkivska, 10", "phone": "044-987-6543" }
+    ],
+    "Lviv": [
+      { "name": "Restoran 'Kryivka'", "address": "pl. Rynok, 5", "phone": "032-345-6789" },
+      { "name": "Cafe 'Veronika'", "address": "vul. Shevchenka, 15", "phone": "032-765-4321" }
+    ]
+  }
+  
